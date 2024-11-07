@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: zero-impala-boot
+    profiles:
+        active: dev
+server:
+    port: 8080
